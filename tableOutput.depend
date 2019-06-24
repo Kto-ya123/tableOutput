@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1560259841 source:/home/ITRANSITION.CORP/a.luzgin/example/tableOutput/main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<algorithm>
+	<iomanip>
+
